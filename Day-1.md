@@ -17,3 +17,6 @@
 ```bash
 git clone https://github.com/skills/communicate-using-markdown
 ```
+```js
+var myVar = "Hello, world!";
+```
