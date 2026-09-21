@@ -13,3 +13,7 @@
 
 - [ ] hello world
 - [X] second world
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
